@@ -1,0 +1,28 @@
+{
+  "name": "terms-and-conditions-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulvillajr95/terms-and-conditions-form.git"
+  },
+  "author": "Raul Villalobos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulvillajr95/terms-and-conditions-form/issues"
+  },
+  "homepage": "https://github.com/raulvillajr95/terms-and-conditions-form#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.2",
+    "webpack": "^5.80.0",
+    "webpack-cli": "^5.0.2"
+  },
+  "dependencies": {
+    "signature_pad": "^4.1.5"
+  }
+}
